@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <title>Elias Mascarenhas - Página Pessoal</title>
     <style>
-        body {
+         body {
             background-color: #000000;
-            color: #f9f9f9;
+            color: #f80909;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
 
@@ -25,7 +25,7 @@
         table,
         th,
         td {
-            border: 0.5px solid #ffffff;
+            border: 0.5px solid #ff0000;
         }
 
         th,
