@@ -88,19 +88,19 @@
                     <th>Experiência</th>
                 </tr>
             </thead>
-            <tbody>
-                <tr>
+       <tbody>
+                <tr style="border: 1px solid black;">
                     <td>jul 2016 - dez 2016</td>
                     <td>Estagiário CPL - Comissão Permanente de Licitação | CREA-PE</td>
-                </tr>
+                </tr style="border: 1px solid black;">
                 <tr>
                     <td>jan 2017 - jun 2017</td>
                     <td>Estagiário Contratos - Time de gestão e fiscalização de contratos | CREA-PE</td>
                 </tr>
-                <tr>
+                <tr style="border: 1px solid black;">
                     <td>ago 2017 - dez 2017 </td>
                     <td>Estagiário Jurídico | CREA-PE</td>
-                </tr>
+                </tr style="border: 1px solid black;">
                 <tr>
                     <td>jul 2018 - Até o momento</td>
                     <td>Empresário Lotérico</td>
