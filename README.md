@@ -75,7 +75,6 @@
 </head>
 
 <body>
-  div class="container">
         <img src="./elias.jpg" alt="Elias Mascarenhas" width="200px" style="border-radius: 10px;">
         <h1 style="color: rgb(255, 255, 255); text-align: center; font-size: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
             Elias Mascarenhas</h1>
