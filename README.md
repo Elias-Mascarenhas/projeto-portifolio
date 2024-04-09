@@ -118,7 +118,6 @@
             <li>Viajar</li>
             <li>Jogar</li>
         </ol>
-    </div>
 </body>
 
 </html>
