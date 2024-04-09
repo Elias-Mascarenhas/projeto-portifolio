@@ -1,11 +1,11 @@
-
+<!DOCTYPE html>
 <html lang="pt-Br">
 
 <head>
     <meta charset="UTF-8">
     <title>Elias Mascarenhas - Página Pessoal</title>
     <style>
-         body {
+  body {
             background-color: #000000;
             color: #f80909;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -73,8 +73,8 @@
         }
     </style>
 </head>
-
 <body>
+    <div class="container">
         <img src="./elias.jpg" alt="Elias Mascarenhas" width="200px" style="border-radius: 10px;">
         <h1 style="color: rgb(255, 255, 255); text-align: center; font-size: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
             Elias Mascarenhas</h1>
@@ -88,7 +88,7 @@
                     <th>Experiência</th>
                 </tr>
             </thead>
-       <tbody>
+             <tbody>
                 <tr style="border: 1px solid black;">
                     <td>jul 2016 - dez 2016</td>
                     <td>Estagiário CPL - Comissão Permanente de Licitação | CREA-PE</td>
@@ -118,6 +118,7 @@
             <li>Viajar</li>
             <li>Jogar</li>
         </ol>
+    </div>
 </body>
 
 </html>
