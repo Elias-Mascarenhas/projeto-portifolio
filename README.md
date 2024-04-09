@@ -25,7 +25,7 @@
         table,
         th,
         td {
-            border: 0.5px solid #f9f9f9;
+            border: 0.5px solid #ffffff;
         }
 
         th,
