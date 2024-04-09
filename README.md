@@ -75,9 +75,9 @@
 </head>
 
 <body>
-  <div class="container">
+  div class="container">
         <img src="./img/elias.jpg" alt="Elias Mascarenhas" width="200px" style="border-radius: 10px;">
-        <h1 style="color: rgb(0, 0, 0); text-align: center; font-size: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        <h1 style="color: rgb(255, 255, 255); text-align: center; font-size: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
             Elias Mascarenhas</h1>
         <p><em>Empresário Lotérico e Estudante de ADS na CESAR SCHOOL </em> </p>
         <hr />
